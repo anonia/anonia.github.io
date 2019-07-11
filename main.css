@@ -1,4 +1,24 @@
-a{
+body{
+  background-color: black;
+}
+.txt{
   background-color: red;
+  border-radius: 25px;
+  width: 200px;
+  transition: all 1s;
+}
+.txt:hover{
+  background-color: blue;
+}
+h{
   font-size: 50px;
+  margin-left: -10px;
+}
+a{
+  font-size: 30px;
+  border-radius: 25px;
+  margin-left: 10px;
+}
+h5{
+  font-size: 40px;
 }
