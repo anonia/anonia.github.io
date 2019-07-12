@@ -14,11 +14,20 @@ h{
   font-size: 50px;
   margin-left: -10px;
 }
-a{
+.txt{
   font-size: 30px;
   border-radius: 25px;
   margin-left: 10px;
 }
 h5{
   font-size: 40px;
+}
+.txt3{
+  background-color: #A9A9A9;
+  height: 100px;
+  margin-top: 227px;
+}
+.txt4{
+  margin-left: 0px;
+  font-size: 20px;
 }
