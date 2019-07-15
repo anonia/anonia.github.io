@@ -16,8 +16,23 @@ body{
 }
 .txt{
   margin-left: 260px;
+  margin-top: -230px;
+}
+.txt45{
+  margin-left: 250px;
+}
+.img{
   margin-top: -180px;
 }
-.txt34{
-    margin-top: 125px;
+.btn1{
+  width: 252px;
+  font-size: 37px;
+  background-color: white;
+  transition: all 1s;
+}
+.btn1:hover{
+  background-color: #2F4F4F;
+}
+.yyy{
+    margin-top: 171px;
 }
