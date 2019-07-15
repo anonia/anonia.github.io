@@ -1,33 +1,23 @@
 body{
   background-color: black;
 }
-.txt{
-  background-color: red;
-  border-radius: 25px;
-  width: 200px;
+.bgc{
+  background-color: white;
+  
+}
+.btn{
+  width: 252px;
+  font-size: 40px;
+  background-color: white;
   transition: all 1s;
 }
-.txt:hover{
-  background-color: blue;
-}
-h{
-  font-size: 50px;
-  margin-left: -10px;
+.btn:hover{
+  background-color: #2F4F4F;
 }
 .txt{
-  font-size: 30px;
-  border-radius: 25px;
-  margin-left: 10px;
+  margin-left: 260px;
+  margin-top: -180px;
 }
-h5{
-  font-size: 40px;
-}
-.txt3{
-  background-color: #A9A9A9;
-  height: 100px;
-  margin-top: 227px;
-}
-.txt4{
-  margin-left: 0px;
-  font-size: 20px;
+.txt34{
+    margin-top: 125px;
 }
