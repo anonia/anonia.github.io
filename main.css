@@ -6,7 +6,7 @@ body{
   
 }
 .btn{
-  width: 230px;
+  width: 270px;
   font-size: 30px;
   background-color: white;
   transition: all 1s;
@@ -15,7 +15,7 @@ body{
   background-color: #2F4F4F;
 }
 .txt{
-  margin-left: 235px;
+  margin-left: 275px;
   margin-top: -210px;
 }
 .txt45{
