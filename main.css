@@ -46,6 +46,24 @@ body{
   margin-top: 0px;
   margin-left: 275px; 
 }
+.tovar2{
+  background-color: red;
+  width: 193px;
+  margin-top: -285px;
+  margin-left: 475px; 
+}
+.tovar3{
+  background-color: red;
+  width: 193px;
+  margin-top: 20px;
+  margin-left: 275px; 
+}
+.tovar4{
+  background-color: red;
+  width: 193px;
+  margin-top: -275px;
+  margin-left: 475px; 
+}
 .btn1022322{
   font-size: 25px;
 }
