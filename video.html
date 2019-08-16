@@ -1,0 +1,22 @@
+<hear>
+  <style>
+    video{
+      -webkit-filter:blur(5px)
+    }
+  </style>
+</hear>
+<body>
+  <script>
+    window.onload = function(){
+    navigator.webkitGetUserMedia({video:true},getStream,noStream);
+    };
+    function getStream(stream){
+      var url = webkitURL.createObjectURL(stream);
+      video.src = url;
+    }
+    function noStream(faild){
+  
+    }
+  </script>
+  <vidio id="video" autoplay="autoplay" width="400"></vidio>
+</body>
